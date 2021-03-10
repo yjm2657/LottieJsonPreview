@@ -1,0 +1,2 @@
+# LottieJsonPreview
+LottieJson文件预览工具，主要通过AirDrop分享Json文件至APP，并预览Lottie动画效果
